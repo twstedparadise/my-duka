@@ -24,4 +24,4 @@ Open http://localhost:5173/.
 
 ## Status
 
-Work in progress — built as part of the Avalanche Mini Hack (Team1Kenya).
+Work in progress.
